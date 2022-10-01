@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-01T17:44:27 IST" name="Suite" finished-at="2022-10-01T17:45:13 IST" duration-ms="45981">
+    <groups>
+    </groups>
+    <test started-at="2022-10-01T17:44:27 IST" name="Test" finished-at="2022-10-01T17:45:13 IST" duration-ms="45981">
+      <class name="com.amazon.qa.testcases.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.amazon.qa.testcases.SearchTest@74bada02]" started-at="2022-10-01T17:44:27 IST" name="setup" finished-at="2022-10-01T17:44:36 IST" duration-ms="9428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="enterSearchCriteriaTest()[pri:0, instance:com.amazon.qa.testcases.SearchTest@74bada02]" started-at="2022-10-01T17:44:36 IST" name="enterSearchCriteriaTest" finished-at="2022-10-01T17:45:12 IST" duration-ms="36086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSearchCriteriaTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.SearchTest@74bada02]" started-at="2022-10-01T17:45:12 IST" name="tearDown" finished-at="2022-10-01T17:45:13 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.amazon.qa.testcases.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
